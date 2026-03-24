@@ -69,7 +69,7 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&theme=github_dark" height="150" alt="top languages"  />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=ganesh19082004&theme=github-dark&hide_border=true" height="150" alt="github streak"  />
+  <img src="https://streak-stats.demolab.com?user=ganesh19082004&theme=github-dark&hide_border=false&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=ffffff&dates=aaaaaa" height="150" alt="github streak"  />
 </div>
 
 ###
