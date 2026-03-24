@@ -65,7 +65,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ganesh19082004&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&hide_border=false" height="150" alt="github stats"  />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&hide_border=false" height="150" alt="top languages"  />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ganesh19082004&hide_border=false" height="150" alt="github streak"  />
 </div>
 
 ###
@@ -75,8 +79,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ganeshpathak19" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/ganesh19082004" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
 
