@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&cache_seconds=1" height="150" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&theme=radical" height="150" alt="github stats"  />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&hide_border=false&cache_seconds=1" height="150" alt="top languages"  />
   <br/>
