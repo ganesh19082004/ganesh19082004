@@ -1,67 +1,91 @@
-<div align="center">
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=220&section=header&text=Ganesh%20Pathak&fontColor=70a5fd&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18&descColor=a9fef7&animation=fadeIn" />
 
-<!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Ganesh!;Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" /></a>
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=45&lines=Building+scalable+web+apps+with+modern+tech+%F0%9F%9A%80;Crafting+pixel-perfect+UIs+%26+robust+backends+%F0%9F%94%A5;Open+Source+Contributor+%7C+Always+Learning+%F0%9F%8C%B1;Let's+build+something+amazing+together+%F0%9F%A4%9D" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<!-- Visitor Badge -->
-<img src="https://komarev.com/ghpvc/?username=ganesh19082004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
+<div align="center">
+  <a href="https://github.com/ganesh19082004?tab=followers">
+    <img src="https://img.shields.io/github/followers/ganesh19082004?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ganesh19082004?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=161b22" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ganesh19082004&label=Profile+Views&style=for-the-badge&color=0d1117&labelColor=161b22" />
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+<!-- About Me Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="coding gif" />
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;About Me
 
-- 💬 I'm currently working on a **Real-Time Chat Application**
-- 🌱 I'm currently learning **Next.js & System Design**
-- 🔍 I'm looking for help with **AI & Machine Learning**
-- 💡 Ask me about **Web Development & Full Stack**
-- 📫 How to reach me: **pathak.ganesh511@gmail.com**
-- ⚡ Fun fact: I love building things that live on the internet!
+<img align="right" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="coding gif" />
+
+```yaml
+name: Ganesh Pathak
+role: Full Stack Developer
+location: India 🇮🇳
+currently_working_on: Real-Time Chat Application
+learning: Next.js & System Design
+open_to: Collaborations on Open Source
+ask_me_about: Web Development, Full Stack, APIs
+contact: pathak.ganesh511@gmail.com
+fun_fact: "I debug with console.log and I'm proud of it 😎"
+```
 
 <br clear="both"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php&theme=dark" alt="languages" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap&theme=dark" alt="frontend" />
-
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql&theme=dark" alt="backend" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" alt="tools" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&show=reviews,prs_merged" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
+### 🔤 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php&perline=6&theme=dark" />
 
-<br/><br/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind&perline=6&theme=dark" />
 
-<img src="https://streak-stats.demolab.com?user=ganesh19082004&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,mysql,firebase&perline=6&theme=dark" />
+
+### 🛠️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman&perline=6&theme=dark" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=a9fef7&text_color=ffffff&count_private=true&show=reviews,prs_merged" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ganesh19082004&theme=tokyonight&hide_border=true&background=0D1117&ring=70a5fd&fire=a9fef7&currStreakLabel=a9fef7&sideLabels=70a5fd&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh19082004&bg_color=0d1117&color=70a5fd&line=a9fef7&point=ffffff&area_color=70a5fd&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -69,42 +93,48 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ganesh19082004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake.svg" width="100%" />
   </picture>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🤝 Connect With Me
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ganeshpathak19" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://twitter.com/ganesh19082004" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   &nbsp;
   <a href="mailto:pathak.ganesh511@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
 <br/>
 
+<!-- Random Dev Quote -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
 </div>
+
+<br/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1b27&height=120&section=footer" />
