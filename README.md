@@ -1,97 +1,110 @@
-<h1 align="left">Hii👋 I'm Ganesh</h1>
+<div align="center">
 
-###
+<!-- Dynamic Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Ganesh!;Full+Stack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" /></a>
 
-<p align="left">I am a  full stack developer .</p>
+<br/>
 
-###
+<!-- Visitor Badge -->
+<img src="https://komarev.com/ghpvc/?username=ganesh19082004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="130" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif"  />
-
-###
-
-<p align="left">💬 I’m currently working on a Real-Time Chat Application<br>🌱 I’m currently learning Next.js<br>🔍 I’m looking for help with AI<br>💡 Ask me about Web Development<br>📫 How to reach me: pathak.ganesh511gmail.com</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif" alt="coding gif" />
+
+- 💬 I'm currently working on a **Real-Time Chat Application**
+- 🌱 I'm currently learning **Next.js & System Design**
+- 🔍 I'm looking for help with **AI & Machine Learning**
+- 💡 Ask me about **Web Development & Full Stack**
+- 📫 How to reach me: **pathak.ganesh511@gmail.com**
+- ⚡ Fun fact: I love building things that live on the internet!
+
+<br clear="both"/>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&theme=radical" height="150" alt="github stats"  />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&theme=github_dark" height="150" alt="top languages"  />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ganesh19082004&theme=github-dark&hide_border=false&ring=00ff99&fire=00ff99&currStreakLabel=00ff99&sideLabels=ffffff&dates=aaaaaa" height="150" alt="github streak"  />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,php&theme=dark" alt="languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap&theme=dark" alt="frontend" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,mysql&theme=dark" alt="backend" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" alt="tools" />
+
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/snake.svg" alt="Snake animation" />
+## 📊 GitHub Stats
 
-###
+<div align="center">
 
-<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ganesh19082004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&show=reviews,prs_merged" height="180" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh19082004&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" height="180" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ganesh19082004&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesh19082004&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ganesh19082004/ganesh19082004/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ganeshpathak19" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/ganesh19082004" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  &nbsp;
+  <a href="https://discord.com" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="mailto:pathak.ganesh511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
-###
+<br/>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ganesh19082004.ganesh19082004&"  />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
-
-###
