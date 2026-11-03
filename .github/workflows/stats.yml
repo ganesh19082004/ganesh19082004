@@ -2,27 +2,20 @@ name: Generate GitHub Stats Cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0,12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  github-stats:
+  github-metrics:
     permissions:
       contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Stats Card
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: ganesh19082004
           filename: github-stats.svg
           template: classic
@@ -32,10 +25,9 @@ jobs:
           config_display: large
           repositories_forks: no
 
-      - name: Generate Top Languages Card
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: ganesh19082004
           filename: top-languages.svg
           template: classic
